@@ -49,12 +49,11 @@ ___
 ![mkdir models](./Project_3_Images/Back/commands.PNG)
 >### Connecting to the Database & Testing the API
 ##### A Non SQL Database MongoDB is created and APi is tested using POSTMAN
-![MongoDB](./Project_3_Images/Backend/MongoBD.PNG)
-![POSTMAN Post](./Project_3_Images/Backend/Post_Postman.PNG)
-![POSTMAN Get](./Project_3_Images/Backend/Get_Postman.PNG)
+![MongoDB](./Project_3_Images/Back/MongoBD.PNG)
+![POSTMAN Post](./Project_3_Images/Back/Post_Postman.PNG)
+![POSTMAN Get](./Project_3_Images/Back/Get_Postman.PNG)
 ## **Step 2 FRONTEND CREATION**
 ___
-
 >### Creating and Running an interface for client to Interact with the API
 #### To created and run the React App following set of commands are run;
 * *`npx create-react-app client`* - (Creates a new folder in  Todo directory called client, where all the React code will be added)
